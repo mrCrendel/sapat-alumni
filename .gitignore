@@ -2,7 +2,7 @@
 env/.env.local
 docker-compose.override.yml
 local.env
-static
+staticfiles
 .gitlab-ci.yml
 API_DOC.yml
 docker-compose.override.yml
@@ -272,3 +272,4 @@ server.sh
 # Pyre type checker
 
 # End of https://www.gitignore.io/api/pycharm,python,django
+env/.env
